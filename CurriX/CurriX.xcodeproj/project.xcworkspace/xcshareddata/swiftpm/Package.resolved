@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "flyoverkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SvenTiigi/FlyoverKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "568c25120bffa4c66d43cb9924d878d6adc94caa"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "e97a6fcb1ab07462881ac165fdbb37f067e205d5",
+        "version" : "1.5.4"
+      }
+    },
+    {
+      "identity" : "swiftyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftyJSON/SwiftyJSON.git",
+      "state" : {
+        "revision" : "af76cf3ef710b6ca5f8c05f3a31307d44a3c5828",
+        "version" : "5.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}

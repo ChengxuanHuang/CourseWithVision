@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "4E86AA72-5359-4A3F-99F3-C882CB85A2E8",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:CurriX.xcodeproj",
+      "identifier" : "6772CE112B9AA73400BEE9E4",
+      "name" : "CurriX"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:CurriX.xcodeproj",
+        "identifier" : "6772CE242B9AA73600BEE9E4",
+        "name" : "CurriXTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:CurriX.xcodeproj",
+        "identifier" : "6772CE2E2B9AA73600BEE9E4",
+        "name" : "CurriXUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
